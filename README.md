@@ -11,7 +11,7 @@ This code retrieves and displays information about network interfaces on the sys
 
 ### Clone the repository:
 
-    git clone 
+    git clone https://github.com/davit-poghosyan/IP-Address-Info.git
 
 ### Compile the source code:
 
